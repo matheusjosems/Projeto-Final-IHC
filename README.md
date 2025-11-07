@@ -1,4 +1,4 @@
-# Projeto Final – Interface Humano-Computador (IHC) 2025_2  
+# Projeto Final – Interação Humano-Computador   
 ## BB APP
 
 ## 1. Identificação do Projeto
