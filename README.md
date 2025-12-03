@@ -1,5 +1,5 @@
 # Projeto Final – Interação Humano-Computador   
-## BB APP
+## APP BB
 
 ## 1. Identificação do Projeto
 **Nome do Projeto:** Projeto Final – Interface Humano-Computador (IHC) – BB APP  
